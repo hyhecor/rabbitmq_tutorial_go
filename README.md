@@ -1,0 +1,2 @@
+# rabbitmq_tutorial_publish_subscribe_go
+RrabbitMQ Tutorial Publish/Subscribe with golang
